@@ -1,0 +1,25 @@
+1
+GERENTE
+nome
+g
+g
+0
+Conta Simples
+Nome do Cliente
+Usuário
+Senha
+1
+Conta Especial
+Nome do Cliente
+Usuário
+Senha
+2
+Conta Poupanca
+Nome do Cliente
+Usuário
+Senha
+3
+GERENTE
+Nome do Gerente
+Usuário
+Senha
